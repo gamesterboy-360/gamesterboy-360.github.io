@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Programming Languages
 
-[Python](./index.html)
+[Python](./python.html)
 
 ## Header 2
 

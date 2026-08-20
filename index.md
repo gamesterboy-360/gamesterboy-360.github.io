@@ -108,8 +108,7 @@ end
   <dt>Barista | Silverdale, WA</dt>
 <dd>January 2026 to June 2026</dd>
 </dl>
-
-_Adept at working as a barista & interested in training for the Shift Supervisor role_
+Adept at working as a barista & interested in training for the Shift Supervisor role
   
 
 ```

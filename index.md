@@ -108,7 +108,23 @@ end
   <dt>Barista | Silverdale, WA</dt>
 <dd>January 2026 to June 2026</dd>
 </dl>
-Adept at working as a barista & interested in training for the Shift Supervisor role
+
+_Adept at working as a barista & interested in training for the Shift Supervisor role_
+#### Aceituno's Mexican Food
+<d1>
+  <dt>Cashier | Bremerton, WA</dt>
+<dd>June 2023 to June 2026</dd>
+</d1>
+
+_Demonstrated operational versatility by performing duties as a cook, cashier & shift manager_
+
+### Education
+
+#### High School Diploma
+<d1>
+  <dt>Central Kitsap High School | Silverdale, WA</dt>
+  <dd>December 2019 to June 2023</dd>
+</d1>
   
 
 ```

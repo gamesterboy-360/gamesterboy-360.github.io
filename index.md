@@ -103,18 +103,14 @@ end
 
 ### Work Experience
 
+#### Starbucks
 <dl>
-<dt>Starbucks</dt>
-<dd>**Barista | Silverdale, WA**</dd>
+  <dt>Barista | Silverdale, WA</dt>
 <dd>January 2026 to June 2026</dd>
-<dd>_Adept at working as a barista & interested in training for the Shift Supervisor role_</dd>
-  <dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
 </dl>
+
+_Adept at working as a barista & interested in training for the Shift Supervisor role_
+  
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.

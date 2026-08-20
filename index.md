@@ -101,12 +101,14 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
+### Work Experience
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
+<dt>Starbucks</dt>
+<dd>**Barista | Silverdale, WA**</dd>
+<dd>January 2026 to June 2026</dd>
+<dd>_Adept at working as a barista & interested in training for the Shift Supervisor role_</dd>
+  <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
